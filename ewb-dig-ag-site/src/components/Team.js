@@ -259,7 +259,83 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Name</figcaption>
+              <figcaption class="figure-caption text-center">
+                Spencer Hong
+              </figcaption>
+            </ContentContainer>
+          </Column>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Sammy Sapoznik
+              </figcaption>{" "}
+            </ContentContainer>
+          </Column>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Benito De Leon
+              </figcaption>{" "}
+            </ContentContainer>
+          </Column>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Jared Chang
+              </figcaption>{" "}
+            </ContentContainer>
+          </Column>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Toby Fischer
+              </figcaption>{" "}
+            </ContentContainer>
+          </Column>
+        </Row>
+        <Row>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Roger Kim
+              </figcaption>
+            </ContentContainer>
+          </Column>
+          <Column>
+            <ContentContainer>
+              <img
+                src={unknownImage}
+                alt="missing"
+                class="figure-img img-fluid rounded-circle"
+              />
+              <figcaption class="figure-caption text-center">
+                Shreya Venkatesh
+              </figcaption>
             </ContentContainer>
           </Column>
           <Column>
@@ -289,7 +365,7 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Name</figcaption>{" "}
+              <figcaption class="figure-caption text-center">Name </figcaption>{" "}
             </ContentContainer>
           </Column>
           <Column>
@@ -299,7 +375,7 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Name</figcaption>{" "}
+              <figcaption class="figure-caption text-center">Name </figcaption>{" "}
             </ContentContainer>
           </Column>
         </Row>
