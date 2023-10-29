@@ -63,5 +63,6 @@ export default function CarouselContent() {
         </StyledCarouselItem>
       </Carousel>
     </Container>
+    
   );
 }
