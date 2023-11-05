@@ -18,12 +18,16 @@
   margin-bottom: 4rem;
 }
 
+.colums {
+  float: left;
+  width: 33.33%;
+  padding: 32px;
+  height: 400px;
+}
 
 
 .textJustify{
   text-align: justify;
-  
-  
 }
 
 .textCenter {
