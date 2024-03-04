@@ -26,6 +26,7 @@ import lawrenceImage from "../assets/Lawrence-modified.png";
 import abigailImage from "../assets/Abigail-modified.png";
 import domenicImage from "../assets/Domenic-modified.png";
 import audreyImage from "../assets/Audrey-modified.png";
+import akshikaImage from "../assets/Akshika-modified.png"
 import Figure from "react-bootstrap/Figure";
 
 import {
@@ -315,11 +316,13 @@ function Team() {
           <Column>
             <ContentContainer>
               <img
-                src={unknownImage}
+                src={akshikaImage}
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Name</figcaption>{" "}
+              <figcaption class="figure-caption text-center">
+                Akshika Chawade
+              </figcaption>{" "}
             </ContentContainer>
           </Column>
           <Column>
