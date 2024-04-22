@@ -25,7 +25,6 @@ import EshaanImage from "../assets/Eshaan-modified.png";
 import lawrenceImage from "../assets/Lawrence-modified.png";
 import abigailImage from "../assets/Abigail-modified.png";
 import domenicImage from "../assets/Domenic-modified.png";
-import audreyImage from "../assets/Audrey-modified.png";
 import akshikaImage from "../assets/Akshika-modified.png";
 import saiImage from "../assets/Sai-modified.png";
 import Figure from "react-bootstrap/Figure";
@@ -347,7 +346,9 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Eshaan Sharma</figcaption>
+              <figcaption class="figure-caption text-center">
+                Eshaan Sharma
+              </figcaption>
             </ContentContainer>
           </Column>
           <Column>
@@ -357,7 +358,9 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Lawrence Granda</figcaption>
+              <figcaption class="figure-caption text-center">
+                Lawrence Granda
+              </figcaption>
             </ContentContainer>
           </Column>
           <Column>
@@ -367,7 +370,9 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Abigail Miller</figcaption>{" "}
+              <figcaption class="figure-caption text-center">
+                Abigail Miller
+              </figcaption>{" "}
             </ContentContainer>
           </Column>
           <Column>
@@ -377,7 +382,9 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Domenic Fioravanti</figcaption>{" "}
+              <figcaption class="figure-caption text-center">
+                Domenic Fioravanti
+              </figcaption>{" "}
             </ContentContainer>
           </Column>
           <Column>
@@ -387,7 +394,9 @@ function Team() {
                 alt="missing"
                 class="figure-img img-fluid rounded-circle"
               />
-              <figcaption class="figure-caption text-center">Sai Nellutla</figcaption>{" "}
+              <figcaption class="figure-caption text-center">
+                Sai Nellutla
+              </figcaption>{" "}
             </ContentContainer>
           </Column>
           <Column>
